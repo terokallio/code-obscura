@@ -1,0 +1,2 @@
+scp -o "ForwardAgent yes" <filetoupload>  <user>@<domain.com>:.
+
