@@ -1,0 +1,6 @@
+in feature branch, do following:
+1. git stash
+2. git fetch origin master
+3. git merge FETCH_HEAD
+4. git stash pop
+
